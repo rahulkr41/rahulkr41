@@ -80,4 +80,4 @@
 * **English:** Professional Working Proficiency
 
 ---
-<p align="center"><i>Generated from "Rahul Kumar Resume.pdf"[cite: 1] • Updated for modern GitHub profiles</i></p>
+
