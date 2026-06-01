@@ -1,4 +1,4 @@
-# 🚀 Rahul Kumar
+#  Rahul Kumar
 ### Electrical Engineering Student & Web Developer
 
 <p align="left">
@@ -69,8 +69,8 @@
 
 ## 📜 Certifications
 
-* **Google** 🏷️ Introduction to Generative AI
-* **Cisco** 🏷️ Python Essentials | C Programming | Introduction to Cybersecurity
+* **Google**  Introduction to Generative AI
+* **Cisco**  Python Essentials | C Programming | Introduction to Cybersecurity
 
 ---
 
